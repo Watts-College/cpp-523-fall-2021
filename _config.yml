@@ -12,7 +12,7 @@ github_info:
     course-repo:       cpp-523-fall-2021
 
 # Site subpath, e.g. /blog
-url :               "https://ds4ps.github.io"
+url :               "https://watts-college.github.io"
 baseurl:            "/cpp-523-fall-2021"
 course_url:         "https://watts-college.github.io/cpp-523-fall-2021/"
 
