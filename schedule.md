@@ -22,7 +22,7 @@ assessments:
   mini-assessment-06:  'Thurs Oct 01 - Tues Oct 06'
   
 final: 
-  exam-date:  'Mon June 20  - Thurs June 24' 
+  exam-date:  'Sat Oct 2  - Friday October 8' 
 
 pdf-root-url:
   "https://github.com/watts-college/cpp-523-fall-2021"
