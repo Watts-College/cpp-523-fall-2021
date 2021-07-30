@@ -11,7 +11,7 @@ labs:
   lab-03:  'Saturday, September 11th'
   lab-04:  'Saturday, September 18th'
   lab-05:  'Saturday, September 25th'
-  lab-06:  'Saturday, October 2th'
+  lab-06:  'Saturday, October 2nd'
   
 assessments:
   mini-assessment-01:  'Sat Aug 28 - Tues August 31'
