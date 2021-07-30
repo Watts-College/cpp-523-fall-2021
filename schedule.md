@@ -19,7 +19,7 @@ assessments:
   mini-assessment-03:  'Sat Sept 11 - Tues Sept 14'
   mini-assessment-04:  'Sat Sept 18 - Tues Sept 21'
   mini-assessment-05:  'Sat Sept 25 - Tues Sept 28'
-  mini-assessment-06:  'Thurs Oct 01 - Tues Oct 06'
+  mini-assessment-06:  'Thurs Sept 30 - Tues Oct 05'
   
 final: 
   exam-date:  'Sat Oct 2  - Friday October 8' 
