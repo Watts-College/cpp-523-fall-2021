@@ -3,29 +3,29 @@ layout: default
 title: Schedule
 
 canvas: 
-  assignment_url: 'https://canvas.asu.edu/courses/86711/assignments'
+  assignment_url: 'https://canvas.asu.edu/courses/93175/assignments'
 
 labs:
-  lab-01:  'Saturday, May 22nd' 
-  lab-02:  'Saturday, May 29th'
-  lab-03:  'Saturday, June 5th'
-  lab-04:  'Saturday, June 12th'
-  lab-05:  'Saturday, June 12th'
-  lab-06:  'Saturday, June 19th'
+  lab-01:  'Saturday, August 28th' 
+  lab-02:  'Saturday, September 4th'
+  lab-03:  'Saturday, September 11th'
+  lab-04:  'Saturday, September 18th'
+  lab-05:  'Saturday, September 25th'
+  lab-06:  'Saturday, October 2th'
   
 assessments:
-  mini-assessment-01:  'Sat May 22 - Tues May 25'
-  mini-assessment-02:  'Sat May 29 - Tues June 1'
-  mini-assessment-03:  'Sat June 5 - Tues June 8'
-  mini-assessment-04:  'Sat June 12 - Tues June 15'
-  mini-assessment-05:  'Sat June 12 - Tues June 15'
-  mini-assessment-06:  'Sat June 19 - Tues June 22'
+  mini-assessment-01:  'Sat Aug 28 - Tues August 31'
+  mini-assessment-02:  'Sat Sept 04 - Tues Sept 07'
+  mini-assessment-03:  'Sat Sept 11 - Tues Sept 14'
+  mini-assessment-04:  'Sat Sept 18 - Tues Sept 21'
+  mini-assessment-05:  'Sat Sept 25 - Tues Sept 28'
+  mini-assessment-06:  'Thurs Oct 01 - Tues Oct 06'
   
 final: 
   exam-date:  'Mon June 20  - Thurs June 24' 
 
 pdf-root-url:
-  "https://github.com/DS4PS/cpp-523-sum-2021"
+  "https://github.com/watts-college/cpp-523-fall-2021"
 ---
 
 <!--- 
