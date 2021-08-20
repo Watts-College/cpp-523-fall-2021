@@ -17,7 +17,7 @@ info:
  course_start_end_dates: August 19 - October 8, 2021 
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
- class_meets_where:  'https://asu.zoom.us/j/84019158609'
+ class_meets_where:  'https://asu.zoom.us/j/87234169051'
  review_sessions_when: Friday, 12:00pm AZ 
  review_sessions_where: 'https://asu.zoom.us/j/87234169051'
  discussion_board_url: 'https://watts-college.github.io/cpp-523-fall-2021/help/'
