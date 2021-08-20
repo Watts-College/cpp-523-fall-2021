@@ -18,8 +18,8 @@ info:
  course_prerequisites: College Level Intro. to Stats 
  class_meets_when:  Asynchronous  
  class_meets_where:  'https://asu.zoom.us/j/84019158609'
- review_sessions_when: Friday, 12:30pm AZ 
- review_sessions_where: 'https://asu.zoom.us/j/84019158609'
+ review_sessions_when: Friday, 12:00pm AZ 
+ review_sessions_where: 'https://asu.zoom.us/j/87234169051'
  discussion_board_url: 'https://watts-college.github.io/cpp-523-fall-2021/help/'
 
 instructor:
@@ -41,7 +41,7 @@ textbooks:
 - title: 'Applied Regression: An Introduction'
   authors: 'Lewis-Beck, C., & Lewis-Beck, M.'
   edition: 2015
-  link: '/cpp-523-spr-2021/pubs/Applied%20Regression%20Lewis-Beck.pdf'
+  link: '/cpp-523-fall-2021/pubs/Applied%20Regression%20Lewis-Beck.pdf'
   required: Required (follow link)
 - title: 'Impact Evaluation in Practice'
   authors: 'Gertler, P. J., Martinez, S., Premand, P., Rawlings, L. B., & Vermeersch, C. M. J.'
